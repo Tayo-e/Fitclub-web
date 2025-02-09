@@ -1,0 +1,34 @@
+{
+  "folders": [
+	{
+		"path": "../../Documents/Web Development/jQuery"
+	},
+	{
+		"path": "../../Documents/Web Development/payment-landing-page"
+	},
+	{
+		"path": "../../Documents/GitHub/Socialmedia-dash"
+	},
+	{
+		"path": "../../Desktop/random practice/React Project"
+	},
+	{
+		"path": "../../Documents/Web Development/PATNAT"
+	},
+	{
+		"path": "../../Documents/GitHub/BigBounce-website"
+	},
+	{
+		"path": "../practice for dev/2.4 QR Code Project"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../Religious project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "PATNAT"
+  }
+}
